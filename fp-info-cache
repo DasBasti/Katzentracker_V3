@@ -1,0 +1,50 @@
+11353630706213
+PCB
+LED_D3.0mm_smd
+LED, diameter 3.0mm, 2 pins
+LED diameter 3.0mm 2 pins
+0
+2
+2
+PCB
+M830520
+M830520-2
+Antenna
+0
+7
+7
+PCB
+PinSocket_1x02_P2.00mm_Vertical
+Through hole straight socket strip, 1x02, 2.00mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x02 2.00mm single row
+0
+2
+2
+PCB
+QFN35P500X500X90-49N
+
+
+0
+49
+49
+PCB
+QFN50P400X400X100-25N
+
+
+0
+25
+25
+PCB
+QFN65P600X600X100-29N
+
+
+0
+29
+29
+PCB
+XCVR_L96-M33
+
+
+0
+31
+31
